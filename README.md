@@ -26,4 +26,4 @@
 ### Simple UI
 
 
-## Just follow me and Star⭐ my repository
+
